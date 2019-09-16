@@ -22,10 +22,26 @@ To run these projects, you will first need to install the following libraries.  
 - Scipy: Used for scientifica computing
 - Itertools: Implements a number of interator building blocks (e.g. permutations, combinations etc.)
 
+### Forking & Cloning the Repoistory onto your Local Machine
+
+- Within Github, click 'Fork'
+- Once Forked, copy the link https://github.com/[YOUR NAME]/dsc-mod-3-project-online-ds-ft-071519
+- Open the command line and navigate to the folder you wish to save the projec to
+- Type 'git clone https://github.com/[YOUR NAME]/dsc-mod-3-project-online-ds-ft-071519'
+- Open a new command line window, type 'jupyter notebook'
+- A Jupyter notebook will open.  Navitage to the folder in which your project is located, open the Jupyter notebook.  You are ready to get started.
+
+
 ## Data
 
 The dataset used is the Microsoft Northwind SQL dataset.  A copy of the schema is available within the Jupyter Notebook.  
 
+
 ## Files
 
-The files within this repository are as follows:
+The relevant files within this repository are as follows:
+- **README.md**: The file you're reading now.
+- **Northwind_small.sqlite**: This is the dataset that will be used within the investigation
+- **Project3_Northwind.ipynb**: This is the Jupyter notebook that contains the statistical analysis
+- **Presentation.pdf**: This is a set of slides which provides a non-technical overview of the project's findings
+
